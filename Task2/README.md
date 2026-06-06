@@ -24,6 +24,6 @@ This project focuses on Exploratory Data Analysis (EDA) of a Books Dataset to un
 - Most books have ratings between 3.5 and 4.5.
   
 ➡️ Files Included
-- EDA_Books_Dataset.ipynb
+- EDA_Books_Dataset.py
 - Output(Screenshot)
 
