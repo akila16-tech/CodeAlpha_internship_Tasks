@@ -25,5 +25,6 @@ This project focuses on Exploratory Data Analysis (EDA) of a Books Dataset to un
   
 ➡️ Files Included
 - EDA_Books_Dataset.py
-- Output(Screenshot)
+- Dataset Information Screenshot
+
 
